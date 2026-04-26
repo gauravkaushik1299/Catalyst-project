@@ -148,7 +148,7 @@ npm run dev
 
 ## 🎥 Demo Video
 
-https://www.loom.com/share/f0692d4b6c743d5835dd9d1336f7fc2
+https://www.loom.com/share/bf0692d4b6c743d5835dd9d1336f7fc2
 
 ---
 
