@@ -22,6 +22,7 @@ function Home() {
       const res = await axios.post(import.meta.env.VITE_API_URL + "/run-agent", {
         jobDescription: jdText,
       });
+      console.log("API URL:", import.meta.env.VITE_API_URL);
 
       setTimeout(() => {
         const raw = res.data?.data;
