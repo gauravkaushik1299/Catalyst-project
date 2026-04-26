@@ -23,7 +23,7 @@ This system:
 
 ## 🚀 Live Demo
 
-Frontend: https://catalyst-project-ten.vercel.app/
+Frontend: https://catalyst-project-nu.vercel.app/
 Backend: https://catalyst-project-zwhi.onrender.com
 
 ---
@@ -44,25 +44,6 @@ Backend: https://catalyst-project-zwhi.onrender.com
 
 - Frontend: Vercel
 - Backend: Render
-
----
-
-## 🧠 Architecture
-
-```
-User (Frontend - React)
-        ↓
-API Call (Axios)
-        ↓
-Backend (Node + Express)
-        ↓
-Agent Service
-   ↓        ↓        ↓
-Match   Interest   Ranking
-Engine   Engine     Engine
-        ↓
-Candidates Dataset (JSON)
-```
 
 ---
 
@@ -159,15 +140,15 @@ npm run dev
 
 ## 🌐 Deployment Notes
 
-- Frontend is deployed on Vercel(https://catalyst-project-ten.vercel.app/ )
-- Backend is deployed on Render(https://catalyst-project-zwhi.onrender.com)
+- Frontend is deployed on Vercel
+- Backend is deployed on Render
 - API communication handled using environment variables
 
 ---
 
 ## 🎥 Demo Video
 
-(Add your demo video link here)
+https://www.loom.com/share/f0692d4b6c743d5835dd9d1336f7fc2
 
 ---
 
