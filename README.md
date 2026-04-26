@@ -47,25 +47,6 @@ Backend: https://catalyst-project-zwhi.onrender.com
 
 ---
 
-## 🧠 Architecture
-
-```
-User (Frontend - React)
-        ↓
-API Call (Axios)
-        ↓
-Backend (Node + Express)
-        ↓
-Agent Service
-   ↓        ↓        ↓
-Match   Interest   Ranking
-Engine   Engine     Engine
-        ↓
-Candidates Dataset (JSON)
-```
-
----
-
 ## 🔍 How It Works
 
 1. User inputs a job description
