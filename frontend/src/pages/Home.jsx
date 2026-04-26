@@ -19,7 +19,7 @@ function Home() {
     setHasRun(true);
 
     try {
-      const res = await axios.post("http://localhost:5000/run-agent", {
+      const res = await axios.post(import.meta.env.VITE_API_URL + "/run-agent", {
         jobDescription: jdText,
       });
 
