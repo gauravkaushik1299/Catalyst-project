@@ -140,8 +140,8 @@ npm run dev
 
 ## 🌐 Deployment Notes
 
-- Frontend is deployed on Vercel(https://catalyst-project-ten.vercel.app/ )
-- Backend is deployed on Render(https://catalyst-project-zwhi.onrender.com)
+- Frontend is deployed on Vercel
+- Backend is deployed on Render
 - API communication handled using environment variables
 
 ---
